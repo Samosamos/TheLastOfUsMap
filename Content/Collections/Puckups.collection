@@ -3,3 +3,12 @@ Type:Static
 Guid:1E46F582-4671-F6F9-727C-ECB59A522269
 ParentGuid:00000000-0000-0000-0000-000000000000
 
+/Game/Blueprints/PickUpActors/BP_BowArrow.BP_BowArrow
+/Game/Blueprints/PickUpActors/BP_PickUP.BP_PickUp
+/Game/Blueprints/PickUpActors/BP_PickUP_Ammo.BP_PickUP_Ammo
+/Game/Blueprints/PickUpActors/BP_PickUp_Brick.BP_PickUp_Brick
+/Game/Blueprints/PickUpActors/BP_PickUp_Craft.BP_PickUp_Craft
+/Game/Blueprints/PickUpActors/BP_PickUp_Health.BP_PickUp_Health
+/Game/Blueprints/PickUpActors/BP_PickUp_HealthPack.BP_PickUp_HealthPack
+/Game/Blueprints/PickUpActors/BP_PickUp_Pills.BP_PickUp_Pills
+/Game/Blueprints/PickUpActors/BP_Weapon.BP_Weapon
