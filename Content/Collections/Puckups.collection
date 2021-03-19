@@ -12,3 +12,4 @@ ParentGuid:00000000-0000-0000-0000-000000000000
 /Game/Blueprints/PickUpActors/BP_PickUp_HealthPack.BP_PickUp_HealthPack
 /Game/Blueprints/PickUpActors/BP_PickUp_Pills.BP_PickUp_Pills
 /Game/Blueprints/PickUpActors/BP_Weapon.BP_Weapon
+/Game/Blueprints/PickUpActors/LoreText/BP_LoreText.BP_LoreText
