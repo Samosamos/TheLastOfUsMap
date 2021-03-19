@@ -2,6 +2,7 @@ FileVersion:2
 Type:Static
 Guid:83C01E21-4065-2C72-C85C-D4A937154E3C
 ParentGuid:00000000-0000-0000-0000-000000000000
+Color:(R=1.000000,G=0.005000,B=0.000000,A=1.000000)
 
 /Game/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_01.SM_Bld_Apartment_01
 /Game/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_02.SM_Bld_Apartment_02
