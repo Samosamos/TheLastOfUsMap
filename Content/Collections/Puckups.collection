@@ -2,6 +2,7 @@ FileVersion:2
 Type:Static
 Guid:1E46F582-4671-F6F9-727C-ECB59A522269
 ParentGuid:00000000-0000-0000-0000-000000000000
+Color:(R=0.115797,G=0.728000,B=0.000000,A=1.000000)
 
 /Game/Blueprints/Door/BP_Door.BP_Door
 /Game/Blueprints/PickUpActors/BP_BowArrow.BP_BowArrow
